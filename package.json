@@ -1,0 +1,22 @@
+{
+  "name": "reset.scss",
+  "version": "1.0.0",
+  "main": "reset.scss",
+  "scripts": {
+    "test": "stylelint \"**/*.scss\" --config stylelint.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dest12217/reset.scss.git"
+  },
+  "author": "dest12217",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dest12217/reset.scss/issues"
+  },
+  "homepage": "https://github.com/dest12217/reset.scss#readme",
+  "devDependencies": {
+    "stylelint": "^13.7.0",
+    "stylelint-config-standard": "^20.0.0"
+  }
+}
